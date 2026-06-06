@@ -34,6 +34,7 @@ add_executable(
   # contract_qvault.cpp
   # contract_qx.cpp
   contract_qassand.cpp
+  contract_qassand_v1_scaffold.cpp
   contract_qraffle.cpp
   contract_vottunbridge.cpp
   # kangaroo_twelve.cpp
